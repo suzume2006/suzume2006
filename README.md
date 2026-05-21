@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Brutikaa 👋
 
-<!--
-**suzume2006/suzume2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Student | Hyderabad, India  
+💻 Passionate about Python, Machine Learning & Data Scientist
 
-Here are some ideas to get you started:
+## 🚀 My Projects
+- [VidSense](https://github.com/suzume2006/VidSense) — Audio extraction and analysis from video files
+- [Heart Disease Prediction](https://github.com/suzume2006/Heart-Disease-Prediction) — ML model to predict heart disease
+- [Data Analysis](https://github.com/suzume2006/data-analysis) — Excel and Power BI dashboards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+Python | Machine Learning | Data Analysis | Power BI | Excel | Pandas | NumPy
+
+## 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/brutikaa-muthyam)
