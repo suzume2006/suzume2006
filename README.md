@@ -1,57 +1,34 @@
-# Brutikaa Muthyam
+Hi, I'm Brutikaa Muthyam 👋
+B.Tech CSE (Data Science) student | C.R. Rao Advanced Institute of Mathematics, Statistics and Computer Science (AIMSCS), Hyderabad, India
+Batch 2024–2028 | CGPA 8.25/10
+I'm an undergraduate research assistant working on adversarial machine learning and camera-based perception for autonomous vehicles — how models fail under attack, and how to make them robust. I learn by reimplementing published research in PyTorch and testing where the original results hold up.
+Currently:
+🔬 Research Assistant under Prof. Supriya Goel, C.R. Rao AIMSCS — building a camera-based accident detection and alert system and researching physical adversarial attacks on pedestrian detection
+📄 Preparing a research paper on graded (high/low) physical adversarial attacks, targeted for end of 2026
+🎯 Looking for paid research / ML internships in AI safety, computer vision, and robust ML
 
-**B.Sc. Data Science Student** | C.R. Rao Advanced Institute of Mathematics, Statistics and Computer Science, Hyderabad, India  
-Batch 2024–2028  
+Featured Projects
+Research
+AdvLS Reimplementation
+A PyTorch reimplementation of AdvLS (Hu et al., ACML 2022), a genetic-algorithm-optimised adversarial laser-spot attack on image classifiers — all 8 pipeline stages built from scratch. I found and fixed a missing-elitism bug in the GA loop, raising attack success rate from 40% → 60%, and ran transferability ablations across ResNet50, VGG19, MobileNet and DenseNet.
+DeMoA Reproduction: Byzantine-Robust Federated Learning
+A PyTorch reimplementation of Delayed Momentum Aggregation (Otsuka et al., arXiv:2509.02970). Compares FedAvg, FedCM and DeMoA across three aggregators and four Byzantine attacks. Under the IPM attack with median aggregation, FedAvg and FedCM dropped to ~10% accuracy while DeMoA held ~89%.
+Applied Machine Learning
+VidSense
+A Python pipeline for video understanding — extracts and analyses audio/transcripts from uploaded videos, exposed through an interactive Gradio interface.
+Heart Disease Prediction
+A scikit-learn classification model that estimates heart disease risk from health parameters, evaluated on accuracy, precision, recall and F1.
+Live demo: heart-disease-suzume2006.streamlit.app
+Data Analysis
+Data Analysis
+Interactive Excel and Power BI dashboards, with data cleaning and aggregation in SQL and Python.
 
-I am a data science undergraduate focused on Python, machine learning, and applied data projects. My current research interests center on robust, privacy-preserving learning (federated learning) and adversarial machine learning.
+Technical Skills
+Languages: Python, SQL, Java, C, HTML, CSS
+Machine Learning: PyTorch, torchvision, scikit-learn, Keras, genetic algorithms, adversarial ML, federated learning
+Data: Pandas, NumPy, Power BI, Microsoft Excel
+Tools: Git, GitHub, Jupyter Notebook, Google Colab, Streamlit, Gradio
 
----
-
-## Featured Projects
-
-### Research
-
-**[ DeMoA MNIST Reproduction ](https://github.com/suzume2006/demoa-mnist-reproduction)**  
-A PyTorch re-implementation of the paper [*Delayed Momentum Aggregation: Communication-efficient Byzantine-robust Federated Learning with Partial Participation*](https://arxiv.org/abs/2509.02970). Compares the proposed method with standard baselines under various Byzantine attack scenarios and partial client participation.
-
-**[ ADVLS Re-implementation ](https://github.com/suzume2006/advls)**  
-A PyTorch re-implementation evaluating adversarial robustness and defense mechanisms in machine learning models under deliberate input and gradient-based attacks.
-
-### Applied Machine Learning
-
-**[ VidSense ](https://github.com/suzume2006/VidSense)**  
-A Python pipeline for automated video understanding. It extracts speech transcripts, visual contexts, and key actions from video files, comparing output accuracy against reference annotations.
-
-**[ Heart Disease Prediction ](https://github.com/suzume2006/Heart-Disease-Prediction)**  
-A machine learning web application that estimates heart disease risk based on user health parameters using a K-Nearest Neighbors model.  
-*[ Live Demo ](https://heart-disease-suzume2006.streamlit.app/)*
-
-### Data Analysis
-
-**[ Data Analysis ](https://github.com/suzume2006/data-analysis)**  
-Interactive dashboards, data processing pipelines, and visual reports developed using Microsoft Excel and Power BI.
-
----
-
-## Learning Repositories
-
-| Repository | Description |
-| --- | --- |
-| **[ Machine-learning ](https://github.com/suzume2006/Machine-learning)** | Practice notebooks covering regression, classification, neural networks, and natural language processing |
-| **[ python-codes ](https://github.com/suzume2006/python-codes)** | Python scripts and mini-projects, including NumPy and Pandas practice |
-| **[ HTML-codes ](https://github.com/suzume2006/HTML-codes)** | HTML and CSS practice projects and web page design |
-
----
-
-## Technical Skills
-
-- **Languages:** Python, HTML, CSS  
-- **Machine Learning & Frameworks:** PyTorch, scikit-learn, Neural Networks, Adversarial Machine Learning, NLP  
-- **Data Analysis & Visualization:** Pandas, NumPy, Microsoft Excel, Power BI  
-- **Tools & Utilities:** Jupyter Notebook, Streamlit, Git, GitHub  
-
----
-
-## Connect with Me
-
-- **LinkedIn:** [linkedin.com/in/brutikaa-muthyam](https://www.linkedin.com/in/brutikaa-muthyam)
+Connect with Me
+LinkedIn: linkedin.com/in/brutikaa-muthyam
+Email: brutikaam@gmail.com
